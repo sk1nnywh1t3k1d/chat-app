@@ -1,2 +1,0 @@
-Server: bit.ly/voughtencrypted
-Client: Billy
